@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/board"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:theme="@style/GreenTheme"
+
+    >
+
+    <Button
+        android:id="@+id/number_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/numbers"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:textSize="@dimen/large_font"
+        android:textColor="@color/limeMedium"
+        android:layout_margin="@dimen/medium"
+        android:background="@drawable/gradient_button"
+
+        />
+    <Button
+
+        android:id="@+id/phonic_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/medium"
+        android:textColor="@color/pinkneon"
+        android:background="@drawable/gradient_button"
+        android:fontFamily="cursive"
+        android:text="@string/phonics_button_string"
+        android:textSize="@dimen/large_font"
+        />
+
+    <Button
+        android:id="@+id/sight_words_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/gradient_button"
+        android:layout_margin="@dimen/medium"
+        android:fontFamily="cursive"
+        android:textColor="@color/yellow"
+        android:text="@string/sight_words_button_string"
+        android:textSize="@dimen/large_font" />
+
+    <Button
+        android:id="@+id/picture_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/gradient_button"
+        android:layout_margin="@dimen/medium"
+        android:fontFamily="cursive"
+        android:textColor="@color/blueneon"
+        android:text="@string/advancedwords_button_string"
+        android:textSize="@dimen/large_font" />
+
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ffab40</color>
+    <color name="colorPrimaryDark">#c77c02</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="limeLight">#000</color>
+    <color name="limeMedium">#aeea00</color>
+    <color name="limeDark">#79b700</color>
+    <color name="alphapink">#30ff69b4</color>
+    <color name="purple">#8B0080</color>
+    <color name="pinkneon">#ff00ff</color>
+    <color name="blueneon">#00e5ff</color>
+    <color name="yellow">#ffff00</color>
+
+
+</resources>

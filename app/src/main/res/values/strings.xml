@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">BrainyKidzApp</string>
+    <string name="numbers">Numbers</string>
+    <string name="phonics_button_string"><b>Alphabets</b></string>
+    <string name="sight_words_button_string">Sight Words</string>
+    <string name="advancedwords_button_string">Spelling Bee</string>
+    <string name="oxford">Oxford Dictionary </string>
+
+
+    <string-array name="sightword_array">
+
+        <item>an</item>
+        <item>am</item>
+        <item>at</item>
+        <item>to</item>
+        <item>so</item>
+        <item>of</item>
+        <item>we</item>
+        <item>me</item>
+        <item>at</item>
+        <item>sat</item>
+        <item>rat</item>
+        <item>bat</item>
+        <item>mat</item>
+        <item>on</item>
+        <item>one</item>
+        <item>for</item>
+        <item>ant</item>
+        <item>and</item>
+        <item>car</item>
+        <item>far</item>
+        <item>war</item>
+        <item>can</item>
+        <item>pan</item>
+        <item>man</item>
+        <item>van</item>
+        <item>tan</item>
+        <item>car</item>
+        <item>pat</item>
+        <item>cot</item>
+        <item>cat</item>
+    </string-array>
+
+</resources>
